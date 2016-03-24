@@ -3,19 +3,19 @@ Proyecto 1 de Algoritmos de los meros parceros.
 
 **Cambios con respecto a la versión pasada:**
 
--Se cambió el arreglo normal por un apuntador para el manejo de la memoria dinámica más chida.
+- Se cambió el arreglo normal por un apuntador para el manejo de la memoria dinámica más chida.
 
--Se agregaron 4 funciones extra para ingresar, cambiar y eliminar tanto artículos como departamentos.
+- Se agregaron 4 funciones extra para ingresar, cambiar y eliminar tanto artículos como departamentos.
 
--Un leve de comentarios para saber qué hace qué cosa.
+- Un leve de comentarios para saber qué hace qué cosa.
 
 **Lo que ya está hecho:**
 
--La estructura de los artículos se queda así porque funciona.
+- La estructura de los artículos se queda así porque funciona.
 
--A la estructura de los departamentos le pueden meter más cosas, pero generalmente funciona.
+- A la estructura de los departamentos le pueden meter más cosas, pero generalmente funciona.
 
--La memoria dinámica funciona.
+- La memoria dinámica funciona.
 
 **Falta por hacer**
 
