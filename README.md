@@ -1,5 +1,4 @@
-# ProyectoAlg01
-Proyecto 1 de Algoritmos de los meros parceros.
+# Proyecto 1 Algoritmos y estructuras de datos.
 
 **Cambios con respecto a la versión pasada:**
 
