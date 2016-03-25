@@ -2,11 +2,7 @@
 
 **Cambios con respecto a la versión pasada:**
 
-- Se cambió el arreglo normal por un apuntador para el manejo de la memoria dinámica más chida.
 
-- Se agregaron 4 funciones extra para ingresar, cambiar y eliminar tanto artículos como departamentos.
-
-- Un leve de comentarios para saber qué hace qué cosa.
 
 **Lo que ya está hecho:**
 
