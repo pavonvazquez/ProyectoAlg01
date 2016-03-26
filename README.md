@@ -2,7 +2,9 @@
 
 **Cambios con respecto a la versión pasada:**
 
-- Funciones para los archivos finales de ventas, compras, ganancias y pérdidas-
+- Funciones para los archivos finales de ventas, compras, ganancias y pérdidas.
+
+- Funciones mágicas que reallocan la memoria.
 
 - Importación de artículos de un archivo.
 
