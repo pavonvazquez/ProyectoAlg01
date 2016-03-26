@@ -16,10 +16,10 @@
 - La memoria dinámica funciona.
 
 - Registro de ganancias, perdidas y compra/venta de articulos en archivo funciona.
- 
--Importación de un archivo funciona.
 
--La reallocación de la memoria funciona.
+- Importación de un archivo funciona.
+
+- La reallocación de la memoria funciona.
 
 
 **Falta por hacer**
