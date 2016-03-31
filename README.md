@@ -23,6 +23,8 @@
 
 - La reallocación de la memoria funciona.
 
+-VERSION FINAL
+
 
 **Falta por hacer**
 
@@ -34,5 +36,7 @@
 - Ver problemas al comprar y/o vender distintos articulos.
 
 - Revisar.
+
+-REVISAR EN GENERAL Y COMENTARIOS
 
 -Optimizar algunas funciones porque creo que se puede hacer menos erizo.
